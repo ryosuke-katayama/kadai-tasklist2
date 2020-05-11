@@ -9,7 +9,6 @@ class TasksController < ApplicationController
   end
 
   def show
-    correct_user
   end
 
   def new
